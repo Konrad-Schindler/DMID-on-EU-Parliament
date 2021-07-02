@@ -1,5 +1,5 @@
 # DMID-on-EU-Parliament
-Daten und Code mit denen wir während des Proseminars "Algorithmen für die Entdeckung von Communities in sozialen Netzwerken" genutzt haben.
+Daten und Code mit denen wir während des Proseminars "Algorithmen für die Entdeckung von Communities in sozialen Netzwerken" gearbeitet haben.
 
 Die erstellte GraphML ist nicht korrekt und muss von Hand ergänzt werden. In allen <key/> muss name und type durch attr.name und attr.type ersetzt werden. 
 gor muss mit for ersetzt werden und in graphml muss 
