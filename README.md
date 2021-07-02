@@ -8,4 +8,4 @@ gor muss mit for ersetzt werden und in graphml muss
     xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
     http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"
 eingesetzt werden. 
-Dazu gibt es auch die Beispieldatei.
+Dazu gibt es auch die Vorlage.
